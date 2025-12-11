@@ -103,7 +103,19 @@ npm run dev
 - 🧑‍🔬 Data Science Toolkit: Add predictive analytics for incident hotspots and smart scheduling of drone patrols.
 - 🌱 Environmental Impact Reporting: Track and report on wildlife preservation outcomes and cleanup effectiveness.
 ---
+---
 
+## 🚀 UI Screenshots
+![Registration Page](images/register.png)
+![Registration Complete](images/registration-complete.png)
+![Login Page](images/login.png)
+![Citizen Report Form](images/citizen-report.png)
+![Map Selector](images/map-selector.png)
+![Admin Profile](images/admin-profile.png)
+![Admin Dashboard](images/admin-dashboard.png)
+![Analytics Dashboard](images/analytics.png)
+
+---
 ## 📚 References
 - [Tasmanian Roadkill Reporter App](https://nre.tas.gov.au/wildlife-management/living-with-wildlife/tasmanian-wildlife-roadkill/tasmanian-roadkill-reporter-app/installing-the-roadkill-reporter-app)
 
